@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "63616563166",
+    "project_id": "todo-550aa",
+    "storage_bucket": "todo-550aa.appspot.com",
+    "firebase_url": "https://todo-550aa-default-rtdb.europe-west1.firebasedatabase.app"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63616563166:android:8ab7af4ca8a7cc7d9d8f4f",
+        "android_client_info": {
+          "package_name": "com.codsoft.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljuLz71w1pWxb0mYacHxgozVPr60nveM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63616563166:android:445ccb7451f8b92a9d8f4f",
+        "android_client_info": {
+          "package_name": "com.example.task_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljuLz71w1pWxb0mYacHxgozVPr60nveM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
