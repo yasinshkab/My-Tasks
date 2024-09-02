@@ -26,10 +26,8 @@ class FirebaseService {
   static final FirebaseDatabase database = FirebaseDatabase.instanceFor(
       app: app,
       databaseURL:
-          'https://todo-550aa-default-rtdb.europe-west1.firebasedatabase.app');
-  // static final FirebaseDatabase database = FirebaseDatabase.instance(
-  //   databaseURL: 'https://rghtr-2af70-default-rtdb.europe-west1.firebasedatabase.app',
-  // );
+          'firebasedatabase');
+  
   static final signInController = Get.put(SignInController());
   static final signUpController = Get.put(SignupController());
 
